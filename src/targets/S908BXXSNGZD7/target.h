@@ -24,7 +24,7 @@
 
 #define BUILD_VARIANT_LABEL "S908BXXSNGZD7"
 #ifndef BUILD_FINGERPRINT
-#define BUILD_FINGERPRINT "samsung/r0sxeaa/r0s:16/BP2A.250605.031.A3/S908BXXSNGZD7:user/release-keys"
+#define BUILD_FINGERPRINT "samsung/b0sxeaa/b0s:16/BP2A.250605.031.A3/S908BXXSNGZD7:user/release-keys"
 #endif
 
 /* ---- Kernel image layout (verified from QEMU kernel) ---- */
